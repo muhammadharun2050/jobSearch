@@ -1,3 +1,4 @@
+                            upwork
 #tracking
     $google analytics jobs upwork
     $ Analytics Jobs
@@ -5,4 +6,10 @@
     $ seo 
     $ onpage seo
     $On-Page SEO Jobs
-    
+    $technical seo jobs 
+    $seo-keyword-research jobs
+    $local-seo-experts jobs
+    $seo-report
+    $yoast-seo
+    $wordpress /wix page-speed-optimization
+    $ cpanel jobs 
